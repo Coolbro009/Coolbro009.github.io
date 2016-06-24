@@ -87,3 +87,7 @@ li  {
 .navbar li a:selected {
     background:white;
 }
+
+.listy {
+    margin:10;
+}
